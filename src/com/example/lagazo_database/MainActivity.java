@@ -10,7 +10,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-//April was also here
+//April was also here same with Jan Alain
 public class MainActivity extends Activity {
 
 	DBInterface db;
