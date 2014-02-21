@@ -12,7 +12,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
-
+ESPERA error
 	DBInterface db;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
